@@ -1,0 +1,93 @@
+[
+    {
+        "panjang_sepal": 5.1,
+        "lebar_sepal": 3.5,
+        "panjang_kelopak": 1.4,
+        "lebar_kelopak": 0.2,
+        "label": "Iris-setosa"
+    },{
+        "panjang_sepal": 4.9,
+        "lebar_sepal": 3,
+        "panjang_kelopak": 1.4,
+        "lebar_kelopak": 0.2,
+        "label": "Iris-setosa"
+    },{
+        "panjang_sepal": 4.7,
+        "lebar_sepal": 3.2,
+        "panjang_kelopak": 1.3,
+        "lebar_kelopak": 0.2,
+        "label": "Iris-setosa"
+    },{
+        "panjang_sepal": 4.6,
+        "lebar_sepal": 3.1,
+        "panjang_kelopak": 1.5,
+        "lebar_kelopak": 0.2,
+        "label": "Iris-setosa"
+    },{
+        "panjang_sepal": 5,
+        "lebar_sepal": 3.6,
+        "panjang_kelopak": 1.4,
+        "lebar_kelopak": 0.2,
+        "label": "Iris-setosa"
+    },{
+        "panjang_sepal": 7,
+        "lebar_sepal": 3.2,
+        "panjang_kelopak": 4.7,
+        "lebar_kelopak": 1.4,
+        "label": "Iris-versicolor"
+    },{
+        "panjang_sepal": 6.4,
+        "lebar_sepal": 3.2,
+        "panjang_kelopak": 4.5,
+        "lebar_kelopak": 1.5,
+        "label": "Iris-versicolor"
+    },{
+        "panjang_sepal": 6.9,
+        "lebar_sepal": 3.1,
+        "panjang_kelopak": 4.9,
+        "lebar_kelopak": 1.5,
+        "label": "Iris-versicolor"
+    },{
+        "panjang_sepal": 5.5,
+        "lebar_sepal": 2.3,
+        "panjang_kelopak": 4,
+        "lebar_kelopak": 1.3,
+        "label": "Iris-versicolor"
+    },{
+        "panjang_sepal": 6.5,
+        "lebar_sepal": 2.8,
+        "panjang_kelopak": 4.6,
+        "lebar_kelopak": 1.5,
+        "label": "Iris-versicolor"
+    },{
+        "panjang_sepal": 6.3,
+        "lebar_sepal": 3.3,
+        "panjang_kelopak": 6,
+        "lebar_kelopak": 2.5,
+        "label": "Iris-virginica"
+    },{
+        "panjang_sepal": 5.8,
+        "lebar_sepal": 2.7,
+        "panjang_kelopak": 5.1,
+        "lebar_kelopak": 1.9,
+        "label": "Iris-virginica"
+    },{
+        "panjang_sepal": 7.1,
+        "lebar_sepal": 3,
+        "panjang_kelopak": 5.9,
+        "lebar_kelopak": 2.1,
+        "label": "Iris-virginica"
+    },{
+        "panjang_sepal": 6.3,
+        "lebar_sepal": 2.9,
+        "panjang_kelopak": 5.6,
+        "lebar_kelopak": 1.8,
+        "label": "Iris-virginica"
+    },{
+        "panjang_sepal": 6.5,
+        "lebar_sepal": 3,
+        "panjang_kelopak": 5.8,
+        "lebar_kelopak": 2.2,
+        "label": "Iris-virginica"
+    }
+]
