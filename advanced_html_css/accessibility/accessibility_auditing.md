@@ -2,7 +2,7 @@
 title: accessibility_auditing
 description: 
 published: true
-date: 2023-01-25T08:11:44.376Z
+date: 2023-01-25T08:12:21.035Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-25T07:44:10.655Z
