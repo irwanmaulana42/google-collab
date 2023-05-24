@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T10:02:28.125Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="sB0orIPIQPhTNtxdJpnm" version="21.3.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-24T10:02:49.736Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="qRg6Hjkg9gk6o_NB19oR" version="21.3.2" type="github" pages="2">
   <diagram name="Page-1" id="cUPxDQDcQTnUeFYrYolD">
     <mxGraphModel dx="1050" dy="483" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -163,6 +163,9 @@
         </mxCell>
         <mxCell id="BiKSMXwNEzezgureyhDh-25" value="Selalu menjadi panutan dalam organisasi, mentaati seluruh kebijakan dan prosedural dan selalu bersikap bijaksana dalam mengambil keputusan dan siap menanggung kesalahan yang dibuat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="90" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="BiKSMXwNEzezgureyhDh-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="162" y="12" width="677" height="781" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
