@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-10-19T15:40:28.017Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="bpKZGAmyM-trdcEekQ28" version="22.0.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-10-19T15:48:37.775Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="SQKhnJ1Zo6ngghb2IclO" version="22.0.5" type="github" pages="4">
   <diagram name="Use Case" id="fZrtdtVvw1iG8bWocpHl">
-    <mxGraphModel dx="1050" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1526" dy="766" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="sxIQwb_I3t_nb9_98Hzz-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=bottom;" parent="1" vertex="1">
-          <mxGeometry x="190" y="20" width="450" height="820" as="geometry" />
+          <mxGeometry x="190" y="20" width="450" height="781" as="geometry" />
         </mxCell>
         <mxCell id="sxIQwb_I3t_nb9_98Hzz-1" value="Pegawai" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="680" y="340" width="30" height="60" as="geometry" />
@@ -95,7 +95,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="D-c_qkVQhmyZWwqs4uyo" name="Activity Diagram">
-    <mxGraphModel dx="2350" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2236" dy="721" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -423,7 +423,7 @@
           <mxGeometry x="-350" y="760" width="280" height="760" as="geometry" />
         </mxCell>
         <mxCell id="Im_IDdCaQdYYhjCN_loz-266" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="Im_IDdCaQdYYhjCN_loz-264" vertex="1">
-          <mxGeometry y="40" width="280" height="720" as="geometry" />
+          <mxGeometry y="40" width="280" height="646" as="geometry" />
         </mxCell>
         <mxCell id="Im_IDdCaQdYYhjCN_loz-267" value="Menampilkan sub menu" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="Im_IDdCaQdYYhjCN_loz-264" vertex="1">
           <mxGeometry x="80" y="100" width="120" height="40" as="geometry" />
@@ -438,7 +438,7 @@
           <mxGeometry x="85" y="490" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Im_IDdCaQdYYhjCN_loz-272" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="Im_IDdCaQdYYhjCN_loz-264" vertex="1">
-          <mxGeometry x="130" y="670" width="30" height="30" as="geometry" />
+          <mxGeometry x="130" y="646" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HfsH5SS9z1ZJ5MF3QqRU-8" value="Menampilkan data goals" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="Im_IDdCaQdYYhjCN_loz-264">
           <mxGeometry x="80" y="560" width="130" height="60" as="geometry" />
@@ -469,7 +469,7 @@
           <mxGeometry width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Im_IDdCaQdYYhjCN_loz-278" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="Im_IDdCaQdYYhjCN_loz-276" vertex="1">
-          <mxGeometry y="40" width="280" height="720" as="geometry" />
+          <mxGeometry y="40" width="280" height="646" as="geometry" />
         </mxCell>
         <mxCell id="Im_IDdCaQdYYhjCN_loz-279" value="Klik menu Perfomance Review" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="Im_IDdCaQdYYhjCN_loz-276" vertex="1">
           <mxGeometry x="70" y="100" width="140" height="40" as="geometry" />
@@ -539,7 +539,7 @@
           <mxGeometry width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Im_IDdCaQdYYhjCN_loz-293" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="Im_IDdCaQdYYhjCN_loz-291" vertex="1">
-          <mxGeometry y="40" width="280" height="660" as="geometry" />
+          <mxGeometry y="40" width="280" height="620" as="geometry" />
         </mxCell>
         <mxCell id="Im_IDdCaQdYYhjCN_loz-294" value="Menampilkan data payslip" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="Im_IDdCaQdYYhjCN_loz-291" vertex="1">
           <mxGeometry x="80" y="100" width="120" height="40" as="geometry" />
@@ -575,7 +575,7 @@
           <mxGeometry width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Im_IDdCaQdYYhjCN_loz-305" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="Im_IDdCaQdYYhjCN_loz-303" vertex="1">
-          <mxGeometry y="40" width="280" height="660" as="geometry" />
+          <mxGeometry y="40" width="280" height="620" as="geometry" />
         </mxCell>
         <mxCell id="Im_IDdCaQdYYhjCN_loz-306" value="Klik Menu payslip" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="Im_IDdCaQdYYhjCN_loz-303" vertex="1">
           <mxGeometry x="70" y="100" width="140" height="40" as="geometry" />
@@ -804,6 +804,14 @@
   </diagram>
   <diagram id="d4y_O53Rq0PEaUcTE7kC" name="Sequence Diagram">
     <mxGraphModel dx="1050" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="WCmFaIUCXyuiwoJhvMaz" name="User Interface">
+    <mxGraphModel dx="1221" dy="613" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
